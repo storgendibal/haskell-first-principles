@@ -21,3 +21,6 @@ b' = 5 `mod`  (-3) -- -1
 -- rest of the way there.
 
 -- quot and rem are what we are used to when thinking about positive numbers 
+
+-- mod where the first number is or both numbers are negative will give us a
+-- positive
